@@ -4,6 +4,7 @@
 
 * Support: Upgrade libs
     * striptags
+    * passport-saml
 
 ### BREAKING CHANGES
 
